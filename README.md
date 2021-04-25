@@ -13,9 +13,13 @@ The process included:
 - Utilizing a web application to display the data
 - Alter the design of the web app to accommodate these images.
 
+The Mongo database stores the scraped data.
+
+<img src="/resources/mongo.png" width="600"> [mongo.png](/resources/mongo.png)
+
 The final product scrapes data from multiple sites and then consolidates the information into one site for the user.    
 
-<img src="/resources/Webpage.png" width="600"> [Webpage.png](/resources/Webpag.png)
+<img src="/resources/Webpage.png" width="600"> [Webpage.png](/resources/Webpage.png)
 
 The webpage was checked for mobile responsiveness and Bootstrap3 components were added.  The website is now responsive for all users, color scheme was updated and includes a hover option for the table.       
 
