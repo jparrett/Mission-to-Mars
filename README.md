@@ -15,7 +15,7 @@ The process included:
 
 The Mongo database stores the scraped data.
 
-<img src="/resources/mongo.png" width="600"> [mongo.png](/resources/mongo.png)
+<img src="/resources/Mongo.png" width="600"> [Mongo.png](/resources/Mongo.png)
 
 The final product scrapes data from multiple sites and then consolidates the information into one site for the user.    
 
